@@ -13,7 +13,8 @@
 <img width="250" alt="1" src="https://user-images.githubusercontent.com/106436314/170830843-cf50c83b-1198-4e63-aae3-270d953b1237.jpg">
 
 ## DEMO影片  
-![Uploading Record_2022-05-29-16-10-10_3e90b8aa1fd0617ad35224c1a9dd01bd_.gif…]()
+![123](https://user-images.githubusercontent.com/106436314/171168349-0cbfbdb5-f1fa-49a5-9aed-3b44454c8a70.gif)
+
 
 * findViewById物件抓取
 ```
