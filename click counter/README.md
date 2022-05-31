@@ -6,7 +6,7 @@
   text的設定  
   setOnClickListener監聽運用  
   
-##APP功能介紹
+## APP功能介紹
 點擊PUSHME開始計數
 點擊RESTART則重新計數  
 
