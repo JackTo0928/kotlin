@@ -12,6 +12,9 @@
 
 <img width="250" alt="1" src="https://user-images.githubusercontent.com/106436314/170830843-cf50c83b-1198-4e63-aae3-270d953b1237.jpg">
 
+## DEMO影片  
+![Uploading Record_2022-05-29-16-10-10_3e90b8aa1fd0617ad35224c1a9dd01bd_.gif…]()
+
 * findViewById物件抓取
 ```
 val tip: Button=findViewById(R.id.button)
