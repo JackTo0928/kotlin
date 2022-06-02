@@ -16,8 +16,10 @@ App剛開始執行會先判斷有無空值以及有無超過範圍後才開始�
 當輸入正確Answers時訊息顯示Good Puppy!  
 點擊HEHE則會公布Answers  
 點擊RESTART則重新開始遊戲  
+![3](https://user-images.githubusercontent.com/106436314/171635152-74d46e48-75af-462c-9a7b-453c35e8d064.jpg)
 
-<img width="250" alt="1" src="https://user-images.githubusercontent.com/106436314/170830843-cf50c83b-1198-4e63-aae3-270d953b1237.jpg"><img width="250" alt="1" src="https://user-images.githubusercontent.com/106436314/170830843-cf50c83b-1198-4e63-aae3-270d953b1237.jpg">
+
+<img width="250" alt="2" src="https://user-images.githubusercontent.com/106436314/171635062-933f4d73-ea2e-403b-bc18-a85cb9315a22.jpg"><img width="250" alt="3" src="https://user-images.githubusercontent.com/106436314/171635152-74d46e48-75af-462c-9a7b-453c35e8d064.jpg">
 
 ## DEMO影片  
 <img width="250" alt="123" src="https://user-images.githubusercontent.com/106436314/171168349-0cbfbdb5-f1fa-49a5-9aed-3b44454c8a70.gif">
